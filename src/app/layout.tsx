@@ -10,7 +10,7 @@ export const metadata = {
     default: "하은의 블로그",
     template: "하은의 블로그 | %s",
   },
-  description: "풀스택 개발자 엘리의 블로그",
+  description: "하은의 블로그",
   icons: {
     icon: "/favicon.ico",
   },
